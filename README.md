@@ -1,4 +1,5 @@
 **햄깅이로 꾸민 투두리스트** <br>
+<img width="408" height="888" alt="image" src="https://github.com/user-attachments/assets/d748f8e9-a40b-4915-8587-0db7ffcda84e" />
 
 <br>
 
